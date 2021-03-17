@@ -1,0 +1,19 @@
+{
+    "projects":[
+        {
+            "projectId":1,
+            "projectName":"TCS_Corp_01", 
+            "description":"Training Project",
+            "client":"TCS",
+            "status":"Pending"
+        },
+
+        {
+            "projectId":2,
+            "projectName":"TCS_P1",
+            "description":"Software Project",
+            "client":"Google",
+            "status":"Pending"
+        }
+    ]
+}
